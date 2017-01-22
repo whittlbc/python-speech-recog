@@ -1,8 +1,6 @@
-## python-speech-recog
+## Python Speech Recognition with Google Cloud Speech API (streaming - gRPC)
 
--------------------
-
-Boilerplate for real-time streaming of mic audio to Google Cloud Speech API in Python.
+Scripts for real-time streaming of mic audio to Google Cloud Speech API in Python.
 
 Usage: `python main.py`
 
